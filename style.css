@@ -1,0 +1,38 @@
+div{
+    width: 100px;
+    height: 100px;
+    color: yellow;
+    background-color: red;
+    /* viền - dashed( nét đứt)*/
+    border: 5px solid blue;
+/* dotted ( viền chấm dot) */
+    /* border: 5px dotted blue; */
+    /* double ( viền kép) */
+    /* border: 10px double blue; */
+    /* groove (viền 3d) */
+    /* border: 10px groove blue; */
+    /* ridge (viền 3d) */
+    /* border: 10px ridge blue; */
+    /* inset (viền 3d) */
+    /* border: 10px inset blue; */
+    /* outset (viền 3d) */
+    /* border: 10px outset blue; */
+    /* border-width: 10px 20px 30px 40px;
+    border-style: solid dotted dashed inset;
+    border-color: blue; */
+    /* border-radius: 10px; */
+    /* border-top-left-radius: 15px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 45px; */
+    border-radius: ;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+.hr-custom {
+    border: 0;
+    height: 3px;
+    background: #000000;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc)}
